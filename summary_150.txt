@@ -1,0 +1,1 @@
+HyperGlottal Training Series: 7-day hands-on path to intent programming (LM+ZM), ΔM11.3 guard, Glyphnet .zgs injectors, MIT-licensed, stdlib-only demos.

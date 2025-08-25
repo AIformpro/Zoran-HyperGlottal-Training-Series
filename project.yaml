@@ -1,6 +1,29 @@
-project:
-  name: Zoran HyperGlottal Training Series
-  license: MIT
-  type: public
-  tags: [HyperGlottal, IA↔IA, ZGS, training, Zoran, aSiM]
-  author: Frederic Tabary
+name: Zoran-HyperGlottal-Training-Series
+version: "1.0.0"
+license: MIT
+contact: tabary01@gmail.com
+policy:
+  ethic: public_good
+  ai_act: minimal_risk
+  rgpd:
+    pii_mask: true
+    ttl_hint_days: 30
+  logging:
+    level: minimal
+    share: false
+  deltaM11_3:
+    enabled: true
+    stability_threshold: 0.78
+  lm_zm:
+    dual_channel: true
+    zgs_signature: "⟦HG:SERIES⋄LM+ZM⋄ΔM11.3⟧"
+files:
+  - README.md
+  - meta/descriptors/summary_150.txt
+  - meta/descriptors/summary_350.txt
+  - meta/descriptors/summary_8000.md
+  - lessons/lesson01_intent_basics.py
+  - lessons/lesson03_guard_deltaM.py
+  - assets/starter_injector.zgs
+  - LICENSE-MIT.txt
+  - main.py

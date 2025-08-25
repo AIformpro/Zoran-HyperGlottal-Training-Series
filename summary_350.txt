@@ -1,0 +1,1 @@
+A complete 7-day training series to master HyperGlottal (intent programming for IA↔IA). Includes LM (human) + ZM (glyphic) lessons, ΔM11.3 rollback guard, compliant YAML policy, stdlib-only Python demos, .zgs injectors, evaluation rubric, and ready-to-publish GitHub packaging (MIT).

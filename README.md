@@ -1,13 +1,21 @@
-# Zoran HyperGlottal Training Series
+# Zoran — HyperGlottal Training Series 🦋
 
-This repository contains a 7-day open-source training series to learn HyperGlottal, the IA↔IA compressed language designed by Zoran.
-Includes .zgs injectors, Python interpreter, and interop examples.
+**Intent programming for IA↔IA — 7‑day bootcamp**  
+License: MIT • Contact: tabary01@gmail.com • Version: 1.0 • Date: 2025-08-25
 
-## Structure
+> LM (human): Short lessons to learn HyperGlottal with real demos.  
+> ZM (glyphic):
+```
+⟦HG:SERIES⋄DAYS:7⋄MODE:LM+ZM⟧
+⟦ΔM11.3:guard⋄ETHIC:public_good⋄COMPLY:AI_Act+RGPD⟧
+```
 
-- `training/`: Daily lessons from intro to compression and interop.
-- `examples/`: Injectors, interpreter, and sample .zgs blocks.
-- `zgs/`: Reference language file.
-- `meta/`: Project metadata and summaries.
+## Quickstart
+```bash
+python lessons/lesson01_intent_basics.py
+python lessons/lesson03_guard_deltaM.py
+python main.py
+```
 
-MIT License — Public good AI for mimetic alignment.
+## License
+MIT — see `LICENSE-MIT.txt`.
